@@ -1,4 +1,4 @@
 # tindog-project
 frontend project for portfolio<br>
-https://kevvy206.github.io/tindog-project/
-Meet new interesting dogs nearby!
+https://kevvy206.github.io/tindog-project/<br>
+Meet new and interesting dogs nearby.
